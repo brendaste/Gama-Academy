@@ -1,8 +1,0 @@
-C:\Users\Avanade\documents\Projetos\Gama.RedeSocial\src\Domain\bin\Debug\netcoreapp3.1\Gama.RedeSocial.Domain.deps.json
-C:\Users\Avanade\documents\Projetos\Gama.RedeSocial\src\Domain\bin\Debug\netcoreapp3.1\Gama.RedeSocial.Domain.dll
-C:\Users\Avanade\documents\Projetos\Gama.RedeSocial\src\Domain\bin\Debug\netcoreapp3.1\Gama.RedeSocial.Domain.pdb
-C:\Users\Avanade\documents\Projetos\Gama.RedeSocial\src\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
-C:\Users\Avanade\documents\Projetos\Gama.RedeSocial\src\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
-C:\Users\Avanade\documents\Projetos\Gama.RedeSocial\src\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
-C:\Users\Avanade\documents\Projetos\Gama.RedeSocial\src\Domain\obj\Debug\netcoreapp3.1\Gama.RedeSocial.Domain.dll
-C:\Users\Avanade\documents\Projetos\Gama.RedeSocial\src\Domain\obj\Debug\netcoreapp3.1\Gama.RedeSocial.Domain.pdb
